@@ -1,0 +1,7 @@
+numpy==1.24.2
+pandas==1.5.3
+portalocker==2.7.0
+torch==1.12.0+cu113
+torchdata==0.4.0
+torchtext==0.13.0
+tqdm==4.65.0
